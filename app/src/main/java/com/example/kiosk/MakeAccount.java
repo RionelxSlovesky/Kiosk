@@ -32,7 +32,7 @@ public class MakeAccount extends AppCompatActivity {
         CA_Email = findViewById(R.id.CA_Email);
         CA_Password = findViewById(R.id.CA_Password);
         CA_AT = findViewById(R.id.CA_AT);
-        CA_Btn = findViewById(R.id.CA_Btn);
+        CA_Btn = findViewById(R.id.MD_LOGOUT);
         CA_PB = findViewById(R.id.CA_PB);
 
 

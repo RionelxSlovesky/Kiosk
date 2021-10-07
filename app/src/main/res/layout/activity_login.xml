@@ -56,7 +56,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/CA_Email" />
 
             <Button
-                android:id="@+id/CA_Btn"
+                android:id="@+id/MD_LOGOUT"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="30dp"
@@ -78,7 +78,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.498"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/CA_Btn" />
+                app:layout_constraintTop_toBottomOf="@+id/MD_LOGOUT" />
 
             <TextView
                 android:id="@+id/createAccount"
